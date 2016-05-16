@@ -1,0 +1,1 @@
+# android_vendor_Lenovo_S650_ROW-rr
